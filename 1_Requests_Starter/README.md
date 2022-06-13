@@ -285,8 +285,8 @@ The API will return three error types when requests fail
 ```
 ## Authors
 
-   Charlton Omondi
+   Coach Caryn, Charlton Omondi
 
 ## Acknowledgements
 
-   Coach Caryn, Udacity
+   @udacity/active-public-content
